@@ -3,7 +3,8 @@
 
     <string name="hello">Hello World, MyFirstAppActivity!</string>
     <string name="app_name">MyFirstApp</string>
-	<string name="edit_message">Enter a message</string>
-    <string name="button_send">Senfd</string>
-    <string name="button_send2">Send2</string>
+	<string name="edit_message">Station1 Index</string>
+	<string name="edit_message2">Station2 Index</string>
+    <string name="button_send">Send</string>
+    <string name="asakusa">asakusa</string>
 </resources>
